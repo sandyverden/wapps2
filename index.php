@@ -1,3 +1,3 @@
 <?php
-	echo "Hello ini autodeploy harusnya :D tambahan";
+	echo "Hello ini autodeploy harusnya :D tambahan tambahan2";
 ?>
